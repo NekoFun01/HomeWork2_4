@@ -24,30 +24,25 @@
     static int Cal(int[] num, int K, int N)
     {
         int final = 0;
-
-
-        int[] Max = new int[N - (K * 2)];
-        for (int i = K; i < N - K; i++)
+        
+        int[] Max = new int[N -(K*2)];
+        for (int i = K; i <= N - (K*2); i++)
         {
             int result = 0;
-            result += num[i];
-            for (int k = 0; k < K; k++)
+            result = result + num[i];
+            for (int j = 1; j <= K; j++)
             {
-               
-                result += num[i+1];
-                result += num[i-1];
+                result = result + num[i + j] + num[i - j];
             }
-            
             Max[i-K] = result;
         }
-        for(int j = 0;j < (N-(K*2))-1;j++)
+        for (int l = 0; l < N - (K*2); l++)
         {
-            if(final < Max[j])
+            if (final < Max[l])
             {
-                final = Max[j];
+                final = Max[l];
             }
         }
-
         return final;
 
     }
