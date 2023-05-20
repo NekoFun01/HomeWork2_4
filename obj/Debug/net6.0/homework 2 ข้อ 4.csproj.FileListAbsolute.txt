@@ -1,0 +1,15 @@
+C:\Users\Chayu\OneDrive\Desktop\homework 2 ข้อ 4\bin\Debug\net6.0\homework 2 ข้อ 4.exe
+C:\Users\Chayu\OneDrive\Desktop\homework 2 ข้อ 4\bin\Debug\net6.0\homework 2 ข้อ 4.deps.json
+C:\Users\Chayu\OneDrive\Desktop\homework 2 ข้อ 4\bin\Debug\net6.0\homework 2 ข้อ 4.runtimeconfig.json
+C:\Users\Chayu\OneDrive\Desktop\homework 2 ข้อ 4\bin\Debug\net6.0\homework 2 ข้อ 4.dll
+C:\Users\Chayu\OneDrive\Desktop\homework 2 ข้อ 4\bin\Debug\net6.0\homework 2 ข้อ 4.pdb
+C:\Users\Chayu\OneDrive\Desktop\homework 2 ข้อ 4\obj\Debug\net6.0\homework 2 ข้อ 4.csproj.AssemblyReference.cache
+C:\Users\Chayu\OneDrive\Desktop\homework 2 ข้อ 4\obj\Debug\net6.0\homework 2 ข้อ 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chayu\OneDrive\Desktop\homework 2 ข้อ 4\obj\Debug\net6.0\homework 2 ข้อ 4.AssemblyInfoInputs.cache
+C:\Users\Chayu\OneDrive\Desktop\homework 2 ข้อ 4\obj\Debug\net6.0\homework 2 ข้อ 4.AssemblyInfo.cs
+C:\Users\Chayu\OneDrive\Desktop\homework 2 ข้อ 4\obj\Debug\net6.0\homework 2 ข้อ 4.csproj.CoreCompileInputs.cache
+C:\Users\Chayu\OneDrive\Desktop\homework 2 ข้อ 4\obj\Debug\net6.0\homework 2 ข้อ 4.dll
+C:\Users\Chayu\OneDrive\Desktop\homework 2 ข้อ 4\obj\Debug\net6.0\refint\homework 2 ข้อ 4.dll
+C:\Users\Chayu\OneDrive\Desktop\homework 2 ข้อ 4\obj\Debug\net6.0\homework 2 ข้อ 4.pdb
+C:\Users\Chayu\OneDrive\Desktop\homework 2 ข้อ 4\obj\Debug\net6.0\homework 2 ข้อ 4.genruntimeconfig.cache
+C:\Users\Chayu\OneDrive\Desktop\homework 2 ข้อ 4\obj\Debug\net6.0\ref\homework 2 ข้อ 4.dll
